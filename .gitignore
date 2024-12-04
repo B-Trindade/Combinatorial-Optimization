@@ -2,6 +2,10 @@
 */papers
 *.pdf
 
+# testing around
+*testing.ipynb
+*.lp
+
 # Example code
 */Example*
 
